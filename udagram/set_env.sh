@@ -1,11 +1,14 @@
 # This file is used for convenience of local development.
 # DO NOT STORE YOUR CREDENTIALS INTO GIT
-export POSTGRES_USERNAME=postgres
-export POSTGRES_PASSWORD=myPassword
-export POSTGRES_HOST=mydbinstance.csxbuclmtj3c.us-east-1.rds.amazonaws.com
-export POSTGRES_DB=postgres
-export AWS_BUCKET=arn:aws:s3:::myawsbucket-75139724085
+export POSTGRES_USERNAME=postgresql
+export POSTGRES_PASSWORD=postgresql
+export POSTGRES_HOST=udacity-gram.cefdsjxknelr.us-east-1.rds.amazonaws.com
+export POSTGRES_DB=udacitydb
+export AWS_BUCKET=udacity-534077479446
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
+export AWS_ACCESS_KEY_ID=ASIAXYWL7TILBR6E2OQP
+export AWS_SECRET_ACCESS_KEY=m6qXETz7YqftED7QNbgBngqkzLDJPZTxdTyHTF7u
 export JWT_SECRET=mysecretstring
 export URL=http://localhost:8100
+export AWS_SESSION_TOKEN=FwoGZXIvYXdzEAUaDNKUtaF0BazKd4BgoiLVAaRCwB+F6yd2flnqT5+13gtZcUVGFFMaLgSQ5V1KN3PcOjqMvOQ0bKaDu6WeNU8Qdjmz4GDGCwPJBSjE0MiVarvZ1f/80U7nkCIVkzEtpcCMXqTXrfwMNxgXlRbxjN86qUFrALTUYuODnS3Quv1XSixCON3qxTyalVSRGxThNfFRfcY/CUEgcCXug01b7jE/OIvQNhf1aTIGs9VXCIcJb+BiyXVmfdxW8L3KmGR51HOUnYCdkqhNmeQuqlJlrp3WnSmp4LIfPlAGkPAwzYZQ6P6xv7j9JCiRtOWoBjItEIffUd1H40Wus8xfRFuVN3vM6f4xMoskhpimvbEqtnktjbTC7/abWAWX77to
