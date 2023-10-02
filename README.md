@@ -6,7 +6,7 @@ This application is provided to you as an alternative starter project if you do 
 
 ## Hosting link
 
-http://nhuttv2.s3-website-us-east-1.amazonaws.com
+http://udacity-534077479446.s3-website-us-east-1.amazonaws.com
 
 ## Dependencies
 
